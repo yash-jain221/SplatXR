@@ -64,13 +64,3 @@ ns-export gaussian-splat --model <checkpoint> --out <export_dir>
 
 ## Experiments & metrics
 - Scripts and example configs for PSNR / SSIM / LPIPS evaluation are referenced in `project.tex` and should be run on held-out views recorded during capture. Tables in the report are placeholders for measured values.
-
-## License & contacts
-Contact the authors listed in `project.tex` for project-specific licensing and dataset requests. See `project.tex` for author emails.
-
-## Next steps / how I can help
-- Fill in numeric metrics (PSNR/SSIM/LPIPS) from experiment logs and add screenshots comparing Unity vs UE5.
-- Automate the pipeline with a `scripts/` folder and example configs.
-
----
-Generated from the project report: see [project.tex](project.tex).
